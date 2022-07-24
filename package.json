@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Capture user input with command-line arguments",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luketorv/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luketorv/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/luketorv/portfolio-generator#readme",
+  "dependencies": {
+    "g": "^2.0.1",
+    "inquirer": "^8.2.4",
+    "npm": "^8.15.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
